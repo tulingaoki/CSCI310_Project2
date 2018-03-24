@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+html, body{
+	background-image: url("newbackground3.jpg");
+	background-repeat:no-repeat;
+	font-family: 'Nixie One', cursive !important;
+	height: 100%;
+	width: 100%;
+}
+
+#user{
+	padding-top: 2%;
+	padding-right: 5%;
+	color: white;
+}
+
+#collage{
+	height: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#history{
+	margin-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#historytitle{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+#inputs{	
+	padding-top: 3%;
+	padding-left: 25%;
+}
+
+
+#topic{
+	width: 25%;
+	float: left;
+	margin-right: 2%;
+}
+
+#lettershape{
+	width: 25%;
+	float: left;
+	margin-right: 2%;
+}
+
+#collage{
+	margin-top: 5%;
+}

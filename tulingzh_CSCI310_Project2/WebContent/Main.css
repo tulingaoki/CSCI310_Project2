@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+html, body{
+	background-image: url("newbackground3.jpg");
+	background-repeat:no-repeat;
+	font-family: 'Nixie One', cursive !important;
+	height: 100%;
+	width: 100%;
+}
+
+#user{
+	padding-top: 2%;
+	padding-right: 5%;
+	color: white;
+}
+
+#user span{
+	float: right;
+}
+
+#title{
+	color: white; 
+	font-size: 30px;
+	text-align: center;
+	margin-top: 6%;
+}
+
+#main{
+	margin-top: 5%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(255,255,255,0.2);
+	height: 45%;
+	width: 50%;
+	border-radius: 10%;
+}
+
+#inputs{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	padding-top: 10%;
+}
